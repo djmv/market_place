@@ -5,13 +5,13 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 5.1.1    
 
-* System dependencies
+* System dependencies devise, paperclip, font-awesome-rails
 
 * Configuration
 
-* Database creation
+* Database creation 
 
 * Database initialization
 
